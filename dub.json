@@ -1,0 +1,9 @@
+{
+    "name": "evald",
+    "authors": [
+        "Hiroki Noda"
+    ],
+    "tagetType": "executable",
+    "description": "D code snippet evaluator.",
+    "license": "MIT"
+}
